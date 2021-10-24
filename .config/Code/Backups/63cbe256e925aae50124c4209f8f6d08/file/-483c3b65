@@ -1,6 +1,0 @@
-file:///home/ylizanicole/assignment%202/first.py {"mtime":1635091128260,"ctime":1635087941821,"size":214,"etag":"37mp5dboi6s","orphaned":false,"typeId":""}
-question1= input ('what is your name?:')
-question2= input ('how old are you?:')
-question3= input ('where are you from?:')
- 
-yprint(f'Hi, my name is {question1}. I am {question2} years old and I live in {question3}')
