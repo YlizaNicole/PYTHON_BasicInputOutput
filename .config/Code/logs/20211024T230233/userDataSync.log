@@ -1,0 +1,33 @@
+[2021-10-24 23:02:44.487] [settingssync] [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+[2021-10-24 23:02:44.487] [settingssync] [info] Auto Sync is disabled.
+[2021-10-24 23:04:10.661] [settingssync] [info] Did reset the local sync state.
+[2021-10-24 23:04:14.095] [settingssync] [info] Settings: Updated local settings
+[2021-10-24 23:04:14.121] [settingssync] [info] Settings: Updated last synchronized settings
+[2021-10-24 23:04:14.138] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2021-10-24 23:04:14.174] [settingssync] [info] Keybindings: Updated last synchronized keybindings
+[2021-10-24 23:04:14.181] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2021-10-24 23:04:14.211] [settingssync] [info] Snippets: Updated last synchronized snippets
+[2021-10-24 23:04:14.262] [settingssync] [info] GlobalState: Updated global state ["workbench.view.extensions.state.hidden","workbench.welcomePage.walkthroughMetadata","workbench.view.extension.test.state.hidden","workbench.view.extension.github-pull-requests.state.hidden","commandPalette.mru.cache","commandPalette.mru.counter","workbench.view.extension.references-view.state.hidden","workbench.explorer.views.state.hidden","workbench.activity.pinnedViewlets2","nps/lastSessionDate","nps/sessionCount","workbench.statusbar.hidden","ces/skipSurvey","workbench.panel.pinnedPanels","memento/gettingStartedService"]
+[2021-10-24 23:04:14.264] [settingssync] [info] GlobalState: Updated local ui state
+[2021-10-24 23:04:14.611] [settingssync] [info] GlobalState: Updated remote ui state
+[2021-10-24 23:04:14.644] [settingssync] [info] GlobalState: Updated last synchronized ui state
+[2021-10-24 23:04:15.702] [settingssync] [info] Extensions: Enabled extension tht13.python 0.2.3
+[2021-10-24 23:04:16.035] [settingssync] [info] Extensions: Enabled extension donjayamanne.python-extension-pack 1.6.0
+[2021-10-24 23:04:16.065] [settingssync] [info] Extensions: Enabled extension batisteo.vscode-django 1.6.0
+[2021-10-24 23:04:16.243] [settingssync] [info] Extensions: Enabled extension ms-toolsai.jupyter 2021.10.1001371494
+[2021-10-24 23:04:16.302] [settingssync] [info] Extensions: Enabled extension ms-python.vscode-pylance 2021.10.2
+[2021-10-24 23:04:16.324] [settingssync] [info] Extensions: Enabled extension wholroyd.jinja 0.0.8
+[2021-10-24 23:04:16.329] [settingssync] [info] Extensions: Enabled extension visualstudioexptteam.vscodeintellicode 1.2.14
+[2021-10-24 23:04:16.342] [settingssync] [info] Extensions: Enabled extension ms-python.python 2021.10.1365161279
+[2021-10-24 23:04:16.354] [settingssync] [info] Extensions: Enabled extension github.vscode-pull-request-github 0.31.1
+[2021-10-24 23:04:21.623] [settingssync] [info] Extensions: Installed extension. donjayamanne.python-extension-pack 1.6.0
+[2021-10-24 23:04:21.985] [settingssync] [info] Extensions: Installed extension. wholroyd.jinja 0.0.8
+[2021-10-24 23:04:29.535] [settingssync] [info] Extensions: Installed extension. github.vscode-pull-request-github 0.31.1
+[2021-10-24 23:04:33.421] [settingssync] [info] Extensions: Installed extension. batisteo.vscode-django 1.6.0
+[2021-10-24 23:04:34.215] [settingssync] [info] Extensions: Installed extension. tht13.python 0.2.3
+[2021-10-24 23:04:42.156] [settingssync] [info] Extensions: Installed extension. visualstudioexptteam.vscodeintellicode 1.2.14
+[2021-10-24 23:04:45.087] [settingssync] [info] Extensions: Installed extension. ms-toolsai.jupyter 2021.10.1001371494
+[2021-10-24 23:05:05.362] [settingssync] [info] Extensions: Stopped synchronizing extensions.
+[2021-10-24 23:05:10.531] [settingssync] [info] Extensions: Installed extension. ms-python.python 2021.10.1365161279
+[2021-10-24 23:05:24.988] [settingssync] [info] Extensions: Installed extension. ms-python.vscode-pylance 2021.10.2
+[2021-10-24 23:05:25.040] [settingssync] [info] Extensions: Updated last synchronized extensions.

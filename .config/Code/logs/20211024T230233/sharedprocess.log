@@ -1,0 +1,68 @@
+[2021-10-24 23:02:49.210] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-10-24 23:02:53.487] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-10-24 23:03:13.490] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-10-24 23:03:13.491] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-10-24 23:03:23.490] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
+[2021-10-24 23:04:16.635] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2021-10-24 23:04:16.636] [sharedprocess] [info] Installing the extension without checking dependencies and pack ms-python.vscode-pylance
+[2021-10-24 23:04:16.675] [sharedprocess] [info] Installing extension: ms-python.python
+[2021-10-24 23:04:16.677] [sharedprocess] [info] Installing the extension without checking dependencies and pack ms-python.python
+[2021-10-24 23:04:16.691] [sharedprocess] [info] Installing extension: visualstudioexptteam.vscodeintellicode
+[2021-10-24 23:04:16.694] [sharedprocess] [info] Installing the extension without checking dependencies and pack visualstudioexptteam.vscodeintellicode
+[2021-10-24 23:04:16.782] [sharedprocess] [info] Installing extension: tht13.python
+[2021-10-24 23:04:16.783] [sharedprocess] [info] Installing the extension without checking dependencies and pack tht13.python
+[2021-10-24 23:04:16.927] [sharedprocess] [info] Installing extension: donjayamanne.python-extension-pack
+[2021-10-24 23:04:16.928] [sharedprocess] [info] Installing the extension without checking dependencies and pack donjayamanne.python-extension-pack
+[2021-10-24 23:04:17.009] [sharedprocess] [info] Installing extension: batisteo.vscode-django
+[2021-10-24 23:04:17.009] [sharedprocess] [info] Installing the extension without checking dependencies and pack batisteo.vscode-django
+[2021-10-24 23:04:17.259] [sharedprocess] [info] Installing extension: wholroyd.jinja
+[2021-10-24 23:04:17.260] [sharedprocess] [info] Installing the extension without checking dependencies and pack wholroyd.jinja
+[2021-10-24 23:04:17.272] [sharedprocess] [info] Installing extension: github.vscode-pull-request-github
+[2021-10-24 23:04:17.273] [sharedprocess] [info] Installing the extension without checking dependencies and pack github.vscode-pull-request-github
+[2021-10-24 23:04:17.877] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter
+[2021-10-24 23:04:17.878] [sharedprocess] [info] Installing the extension without checking dependencies and pack ms-toolsai.jupyter
+[2021-10-24 23:04:20.744] [sharedprocess] [info] Downloaded extension: donjayamanne.python-extension-pack /home/ylizanicole/.config/Code/CachedExtensionVSIXs/donjayamanne.python-extension-pack-1.6.0
+[2021-10-24 23:04:21.157] [sharedprocess] [info] Downloaded extension: batisteo.vscode-django /home/ylizanicole/.config/Code/CachedExtensionVSIXs/batisteo.vscode-django-1.6.0
+[2021-10-24 23:04:21.276] [sharedprocess] [info] Downloaded extension: wholroyd.jinja /home/ylizanicole/.config/Code/CachedExtensionVSIXs/wholroyd.jinja-0.0.8
+[2021-10-24 23:04:21.324] [sharedprocess] [info] Downloaded extension: tht13.python /home/ylizanicole/.config/Code/CachedExtensionVSIXs/tht13.python-0.2.3
+[2021-10-24 23:04:21.500] [sharedprocess] [info] Extracted extension to /home/ylizanicole/.vscode/extensions/.b81dd5ac-2c0c-445b-ac72-13a5e5cf2af5: donjayamanne.python-extension-pack
+[2021-10-24 23:04:21.604] [sharedprocess] [info] Renamed to /home/ylizanicole/.vscode/extensions/donjayamanne.python-extension-pack-1.6.0
+[2021-10-24 23:04:21.617] [sharedprocess] [info] Extracting completed. donjayamanne.python-extension-pack
+[2021-10-24 23:04:21.622] [sharedprocess] [info] Extension installed successfully: donjayamanne.python-extension-pack
+[2021-10-24 23:04:21.892] [sharedprocess] [info] Extracted extension to /home/ylizanicole/.vscode/extensions/.2a2316d1-a75b-42c3-a092-d6197e3d2578: wholroyd.jinja
+[2021-10-24 23:04:21.896] [sharedprocess] [info] Downloaded extension: github.vscode-pull-request-github /home/ylizanicole/.config/Code/CachedExtensionVSIXs/github.vscode-pull-request-github-0.31.1
+[2021-10-24 23:04:21.955] [sharedprocess] [info] Renamed to /home/ylizanicole/.vscode/extensions/wholroyd.jinja-0.0.8
+[2021-10-24 23:04:21.977] [sharedprocess] [info] Extracting completed. wholroyd.jinja
+[2021-10-24 23:04:21.983] [sharedprocess] [info] Extension installed successfully: wholroyd.jinja
+[2021-10-24 23:04:25.657] [sharedprocess] [info] Downloaded extension: visualstudioexptteam.vscodeintellicode /home/ylizanicole/.config/Code/CachedExtensionVSIXs/visualstudioexptteam.vscodeintellicode-1.2.14
+[2021-10-24 23:04:25.969] [sharedprocess] [info] Downloaded extension: ms-python.python /home/ylizanicole/.config/Code/CachedExtensionVSIXs/ms-python.python-2021.10.1365161279
+[2021-10-24 23:04:26.862] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter /home/ylizanicole/.config/Code/CachedExtensionVSIXs/ms-toolsai.jupyter-2021.9.1101343141
+[2021-10-24 23:04:27.419] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /home/ylizanicole/.config/Code/CachedExtensionVSIXs/ms-python.vscode-pylance-2021.10.2
+[2021-10-24 23:04:29.308] [sharedprocess] [info] Extracted extension to /home/ylizanicole/.vscode/extensions/.112088de-f685-4ce5-8429-833ddc74b5a4: github.vscode-pull-request-github
+[2021-10-24 23:04:29.473] [sharedprocess] [info] Renamed to /home/ylizanicole/.vscode/extensions/github.vscode-pull-request-github-0.31.1
+[2021-10-24 23:04:29.513] [sharedprocess] [info] Extracting completed. github.vscode-pull-request-github
+[2021-10-24 23:04:29.530] [sharedprocess] [info] Extension installed successfully: github.vscode-pull-request-github
+[2021-10-24 23:04:32.019] [sharedprocess] [info] Extracted extension to /home/ylizanicole/.vscode/extensions/.00a1090e-1ee0-4044-81c7-0b0c84084cb1: batisteo.vscode-django
+[2021-10-24 23:04:33.373] [sharedprocess] [info] Renamed to /home/ylizanicole/.vscode/extensions/batisteo.vscode-django-1.6.0
+[2021-10-24 23:04:33.420] [sharedprocess] [info] Extracting completed. batisteo.vscode-django
+[2021-10-24 23:04:33.421] [sharedprocess] [info] Extension installed successfully: batisteo.vscode-django
+[2021-10-24 23:04:34.097] [sharedprocess] [info] Extracted extension to /home/ylizanicole/.vscode/extensions/.ebf36b5e-d7c3-4325-8609-0572bcbdc883: tht13.python
+[2021-10-24 23:04:34.177] [sharedprocess] [info] Renamed to /home/ylizanicole/.vscode/extensions/tht13.python-0.2.3
+[2021-10-24 23:04:34.195] [sharedprocess] [info] Extracting completed. tht13.python
+[2021-10-24 23:04:34.203] [sharedprocess] [info] Extension installed successfully: tht13.python
+[2021-10-24 23:04:41.954] [sharedprocess] [info] Extracted extension to /home/ylizanicole/.vscode/extensions/.f70e8cc6-f02d-4aef-a522-bda7b7c76428: visualstudioexptteam.vscodeintellicode
+[2021-10-24 23:04:42.065] [sharedprocess] [info] Renamed to /home/ylizanicole/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.14
+[2021-10-24 23:04:42.104] [sharedprocess] [info] Extracting completed. visualstudioexptteam.vscodeintellicode
+[2021-10-24 23:04:42.148] [sharedprocess] [info] Extension installed successfully: visualstudioexptteam.vscodeintellicode
+[2021-10-24 23:04:45.006] [sharedprocess] [info] Extracted extension to /home/ylizanicole/.vscode/extensions/.a44fd9e8-1edf-4113-b5ec-a70c08d6501f: ms-toolsai.jupyter
+[2021-10-24 23:04:45.064] [sharedprocess] [info] Renamed to /home/ylizanicole/.vscode/extensions/ms-toolsai.jupyter-2021.9.1101343141
+[2021-10-24 23:04:45.077] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter
+[2021-10-24 23:04:45.086] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter
+[2021-10-24 23:05:10.460] [sharedprocess] [info] Extracted extension to /home/ylizanicole/.vscode/extensions/.060c36df-ca98-4838-892b-2a8de140fb51: ms-python.python
+[2021-10-24 23:05:10.515] [sharedprocess] [info] Renamed to /home/ylizanicole/.vscode/extensions/ms-python.python-2021.10.1365161279
+[2021-10-24 23:05:10.523] [sharedprocess] [info] Extracting completed. ms-python.python
+[2021-10-24 23:05:10.530] [sharedprocess] [info] Extension installed successfully: ms-python.python
+[2021-10-24 23:05:24.943] [sharedprocess] [info] Extracted extension to /home/ylizanicole/.vscode/extensions/.ec24fd59-7f3e-4174-b8e2-c7a0e6487ab1: ms-python.vscode-pylance
+[2021-10-24 23:05:24.970] [sharedprocess] [info] Renamed to /home/ylizanicole/.vscode/extensions/ms-python.vscode-pylance-2021.10.2
+[2021-10-24 23:05:24.982] [sharedprocess] [info] Extracting completed. ms-python.vscode-pylance
+[2021-10-24 23:05:24.988] [sharedprocess] [info] Extension installed successfully: ms-python.vscode-pylance

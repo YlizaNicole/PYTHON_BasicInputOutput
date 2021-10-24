@@ -1,0 +1,72 @@
+[2021-10-25 00:20:50.479] [exthost] [info] extension host started
+[2021-10-25 00:20:50.479] [exthost] [info] Skipping acquiring lock for /home/ylizanicole/.config/Code/User/workspaceStorage/e0968b81e1c975e4b8a8dcb1a8c21123.
+[2021-10-25 00:20:52.764] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-10-25 00:20:52.765] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-10-25 00:20:52.888] [exthost] [info] ExtensionService#_doActivateExtension batisteo.vscode-django, startup: false, activationEvent: 'onLanguage:python'
+[2021-10-25 00:20:52.889] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ylizanicole/.vscode/extensions/batisteo.vscode-django-1.6.0/out/extension
+[2021-10-25 00:20:52.957] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.vscode-pylance
+[2021-10-25 00:20:52.957] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ylizanicole/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension
+[2021-10-25 00:20:53.951] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2021-10-25 00:20:53.952] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ylizanicole/.vscode/extensions/ms-toolsai.jupyter-2021.9.1101343141/out/client/extension
+[2021-10-25 00:20:55.058] [exthost] [info] ExtensionService#_doActivateExtension tht13.python, startup: false, activationEvent: 'onLanguage:python'
+[2021-10-25 00:20:55.058] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ylizanicole/.vscode/extensions/tht13.python-0.2.3/out/client/src/pythonMain
+[2021-10-25 00:20:55.103] [exthost] [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode, startup: false, activationEvent: 'onLanguage:python'
+[2021-10-25 00:20:55.103] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ylizanicole/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.14/dist/intellicode
+[2021-10-25 00:20:55.342] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-10-25 00:20:55.342] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-10-25 00:20:55.365] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-10-25 00:20:55.365] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2021-10-25 00:20:55.657] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: true, activationEvent: '*'
+[2021-10-25 00:20:55.657] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ylizanicole/.vscode/extensions/github.vscode-pull-request-github-0.31.1/dist/extension
+[2021-10-25 00:20:57.447] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-10-25 00:20:57.473] [exthost] [error] ProxyResolver#resolveProxy Canceled: Canceled
+	at Object.n [as canceled] (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:9064
+	at Array.forEach (<anonymous>)
+	at i.dispose (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:9012)
+	at b.terminate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:682)
+	at o (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:32535)
+	at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:30185)
+	at Socket.emit (events.js:327:22)
+	at Pipe.<anonymous> (net.js:673:12) 
+[2021-10-25 00:20:57.474] [exthost] [error] ProxyResolver#resolveProxy Canceled: Canceled
+	at Object.n [as canceled] (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:9064
+	at Array.forEach (<anonymous>)
+	at i.dispose (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:9012)
+	at b.terminate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:682)
+	at o (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:32535)
+	at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:30185)
+	at Socket.emit (events.js:327:22)
+	at Pipe.<anonymous> (net.js:673:12) 
+[2021-10-25 00:20:57.500] [exthost] [error] ProxyResolver#resolveProxy Canceled: Canceled
+	at Object.n [as canceled] (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:9064
+	at Array.forEach (<anonymous>)
+	at i.dispose (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:9012)
+	at b.terminate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:682)
+	at o (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:32535)
+	at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:30185)
+	at Socket.emit (events.js:327:22)
+	at Pipe.<anonymous> (net.js:673:12) 
+[2021-10-25 00:20:58.630] [exthost] [error] Activating extension GitHub.vscode-pull-request-github failed due to an error:
+[2021-10-25 00:20:58.630] [exthost] [error] Canceled: Canceled
+	at Object.n [as canceled] (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:9064
+	at Array.forEach (<anonymous>)
+	at i.dispose (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:9012)
+	at b.terminate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:682)
+	at o (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:32535)
+	at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:30185)
+	at Socket.emit (events.js:327:22)
+	at Pipe.<anonymous> (net.js:673:12)
+[2021-10-25 00:20:58.631] [exthost] [error] ProxyResolver#resolveProxy Canceled: Canceled
+	at Object.n [as canceled] (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+	at i._remoteCall (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13876)
+	at Proxy.R.<computed>.$.charCodeAt.R.<computed> (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:10271)
+	at E.resolveProxy (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:39347)
+	at Object.resolveProxy (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:58244)
+	at useProxySettings (/usr/share/code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:159:16)
+	at /usr/share/code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:107:13
+	at /usr/share/code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:335:13 
+[2021-10-25 00:20:58.678] [exthost] [info] exiting with code 0

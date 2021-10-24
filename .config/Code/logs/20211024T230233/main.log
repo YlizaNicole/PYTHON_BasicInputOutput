@@ -1,0 +1,8 @@
+[2021-10-24 23:02:34.880] [main] [info] update#setState idle
+[2021-10-24 23:03:04.885] [main] [info] update#setState checking for updates
+[2021-10-24 23:03:05.013] [main] [info] update#setState idle
+[2021-10-24 23:04:05.610] [main] [warning] Error attempting to set a password:  {}
+[2021-10-24 23:04:05.829] [main] [warning] Error attempting to set a password:  {}
+[2021-10-24 23:04:06.041] [main] [warning] Error attempting to set a password:  {}
+[2021-10-25 00:03:04.938] [main] [info] update#setState checking for updates
+[2021-10-25 00:03:05.445] [main] [info] update#setState idle
